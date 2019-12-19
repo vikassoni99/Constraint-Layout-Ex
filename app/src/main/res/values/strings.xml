@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConstraintLayEx1</string>
+    <string name="placeholderForImage">Image is coming from home...</string>
+    <string name="bt1">DISCARD</string>
+    <string name="btn2">UPLOAD</string>
+    <string name="header">India</string>
+    <string name="place">Place</string>
+    <string name="fs">Fatehsagar</string>
+    <string name="city">City</string>
+    <string name="udr">Udaipur</string>
+    <string name="desc">Lake Fatehsagar is ...wdsd vjbksvsdj sdc bsdcb dkcd shk cbdskc jdbcjkdbc kjc bdsud scsd jkcd ucsdcb kscscks</string>
+</resources>
